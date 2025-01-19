@@ -35,6 +35,7 @@
 | [O que já foi realizado](https://www.linkedin.com/posts/emanoel-oliveira-br_bitcoin-blockchain-inovaaexaeto-activity-7284398852554592256-H1qC/)                                                                     | Shi Satoshi             |
 | [Desenvolvimento de um Explorer para rede Bitcoin e Lightning Network ! 😲](https://www.linkedin.com/posts/marciomoraisoficial_bitcoin-blockchain-tecnologia-activity-7284595376441974784-AZuq/)                    | Cruzados do Código      |
 | [Dojo Bitcoin Challenge: Overcoming Obstacles in Block Explorer Development](https://www.linkedin.com/posts/zackson-pessoa_softwaredevelopment-bitcoin-blockexplorer-activity-7284721160909447169-9OHB/)            | Anácriptos              |
+| [Bitcoin Wallet CLI]( https://github.com/ZacksonPessoa/bitcoin-wallet-cli.git/)            | Anácriptos              |
 
 ## ✅ Semana 2
 
